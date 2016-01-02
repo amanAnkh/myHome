@@ -1,0 +1,18 @@
+Vim
+	( ) Lire la doc.
+	( ) Connaitre les racoursies.
+	( ) Installer un theme.
+
+Git
+	( ) Lire la doc [en/fr].
+	(#) Comprendre les bases de git et github.
+	( ) Devennir super pote avec git.
+
+Script/Alias
+	( ) Mettre les alias en couleurs.
+	( ) Git alias.
+
+	Command : ( ) sed  ( ) awk  ( ) grep
+
+
+
