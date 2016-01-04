@@ -1,6 +1,6 @@
 Vim
 	( ) Lire la doc.
-	( ) Connaitre les racourcis.
+	(#) Connaitre les racourcis.
 	( ) Installer un theme.
 
 Git
