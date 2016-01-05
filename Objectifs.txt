@@ -3,6 +3,12 @@ Vim
 	(#) Connaitre les racourcis.
 	( ) Installer un theme.
 
+Emacs
+	( ) Lire la doc.
+	(#) Connaitre les racourcis.
+	( ) Installer un theme.
+	( ) Trouver que emacs c'est mieux que vim.
+
 Git
 	( ) Lire la doc [en/fr].
 	(#) Comprendre les bases de git et github.
