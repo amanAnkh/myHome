@@ -14,9 +14,11 @@ Git
 	(#) Comprendre les bases de git et github.
 	( ) Devennir super pote avec git.
 
+
 Script/Alias
 	( ) Mettre les alias en couleurs.
 	( ) Git alias.
+	( ) Passez le script info en alias.
 
 	Command : ( ) sed  ( ) awk  ( ) grep
 
