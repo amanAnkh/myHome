@@ -21,7 +21,7 @@ Git
 Alias
 	( ) Mettre les alias en couleurs.
 	( ) Git alias.
-	( ) Passez le script info en alias.
+	( ) Passer le script info en alias.
 
 Script
 	( ) mkdir_ex.sh
