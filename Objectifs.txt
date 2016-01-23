@@ -5,38 +5,48 @@
 Vim
 	( ) Lire la doc.
 	(#) Connaitre les racourcis.
-	( ) Installer un theme.
-
+	(#) Installer un theme.
 Emacs
 	( ) Lire la doc.
 	(#) Connaitre les racourcis.
 	( ) Installer un theme.
 	( ) Trouver que emacs c'est mieux que vim.
-
 Git
 	( ) Lire la doc [en/fr].
 	(#) Comprendre les bases de git et github.
 	( ) Devennir super pote avec git.
-
-Alias
-	( ) Mettre les alias en couleurs.
-	( ) Git alias.
-	( ) Passer le script info en alias.
-
-Script
-	( ) mkdir_ex.sh
-	( ) mkdir_jour.sh
-
 Man
 	( ) sed
 	( ) awk
 	( ) grep
 
-
 ########################
 # 	PROJECT        #
 ########################
 
+Script
+	( ) mkdir_ex.sh
+	( ) mkdir_jour.sh
+Alias
+	( ) Mettre les alias en couleurs.
+	( ) Git alias.
+	( ) Passer le script info en alias.
 Web
 	(10%) Restaurant
 	( ) Meuble	
+C
+	( ) tic tac toe
+		file : main.c, ft_putchar, ft_putstr.
+		       version
+		       executable
+	
+		( ) version 0.1 Mode deux joueurs, affichage simple numéroté, utilisation de scanf.
+		( ) version 0.2
+		( ) version 0.3
+		( ) version 0.4 Création d'un makefile.
+		( ) version 0.5 Ajout d'une intelligence artificielle basic.
+		( ) version 0.6
+		( ) version 0.7
+		( ) version 0.8
+		( ) version 0.9 // Utilisation de la lib semi-graphique ncurse.
+		( ) version 1.0 // Optimisation du programme.
