@@ -2,51 +2,27 @@
 #	LEAR           #
 ########################
 
-Vim
-	( ) Lire la doc.
-	(#) Connaitre les racourcis.
-	(#) Installer un theme.
-Emacs
-	( ) Lire la doc.
-	(#) Connaitre les racourcis.
-	( ) Installer un theme.
-	( ) Trouver que emacs c'est mieux que vim.
-Git
-	( ) Lire la doc [en/fr].
-	(#) Comprendre les bases de git et github.
-	( ) Devennir super pote avec git.
-Man
-	( ) sed
-	( ) awk
-	( ) grep
 
 ########################
 # 	PROJECT        #
 ########################
 
 Script
-	( ) mkdir_ex.sh
-	( ) mkdir_jour.sh
+
 Alias
-	( ) Mettre les alias en couleurs.
-	( ) Git alias.
 	( ) Passer le script info en alias.
 Web
-	(10%) Restaurant
-	( ) Meuble	
+	( ) Free	
 C
 	( ) tic tac toe
-		file : main.c, ft_putchar, ft_putstr.
-		       version
-		       executable
 	
-		( ) version 0.1 Mode deux joueurs, affichage simple numéroté, utilisation de scanf.
-		( ) version 0.2
-		( ) version 0.3
-		( ) version 0.4 Création d'un makefile.
-		( ) version 0.5 Ajout d'une intelligence artificielle basic.
-		( ) version 0.6
-		( ) version 0.7
-		( ) version 0.8
-		( ) version 0.9 // Utilisation de la lib semi-graphique ncurse.
-		( ) version 1.0 // Optimisation du programme.
+		( ) version 0.1 affichage simple
+		( ) version 0.2 Posez un symbole, gestion d'erreur basic
+		( ) version 0.3 Ajout d'un menu (1J, 2J, instruction, quittez)
+		( ) version 0.4 Ajout d'une intelligence artificielle basic.
+		( ) version 0.5 Refonte du code pour l'utilisation de la lib semi-graphique ncurse.
+		( ) version 0.6 Optimisation du code.
+		( ) version 0.7 Optimisation de IA.
+		( ) version 0.8 
+		( ) version 0.9 
+		( ) version 1.0 
