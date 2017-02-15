@@ -80,6 +80,8 @@ source $ZSH/oh-my-zsh.sh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
 
+export TERM=xterm-256color
+
 # CONF
 alias nedite="nano ~/.zshrc"
 alias rl="sudo ~/.zshrc"
@@ -98,4 +100,3 @@ alias gl="git log"
 # CHANGE DIRECTORY
 alias ft="cd ~/C/Libft"
 alias cur="cd ~/C/Minishell"
-
