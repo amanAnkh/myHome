@@ -8,4 +8,4 @@ echo "NANORC"
 cp nano/.nanorc ~
 
 echo "ZSHRC"
-cp zsh/.zshrc !
+cp zsh/.zshrc ~
