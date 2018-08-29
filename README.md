@@ -10,4 +10,4 @@ Ont peut y trouver :
 	Mes divers projets.
 
 - Un dossier "Script" :
-	Des scripts et mes scripts.
+	Voir https://github.com/amanAnkh/myHome/wiki
